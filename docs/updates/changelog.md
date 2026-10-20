@@ -7,6 +7,14 @@ icon: clock-rotate-left
 
 {% updates format="full" %}
 {% update date="2026-10-21" %}
+## CORE Simulation Integrity and Entity Consent Refinement
+
+* Renamed **Simulation** to **Simulation Integrity** and **Assistant bias** to **Bias exclusion**, updating the latter's target from “narration” to “their depiction” while preserving its assistant-originated bias restriction.
+* Removed the standalone **Consent** group, relocating the unchanged Human authorization directive to **USER Entity → Human authorization**, and the unchanged NPC consent directive to **NPC Entity → NPC consent**.
+* Preserved all remaining directives and kernel specifications unchanged, keeping CORE as one unified table.
+{% endupdate %}
+
+{% update date="2026-10-21" %}
 ## CORE Execution Grouping Refinement
 
 * Split the former nine-function **Execution** group into **Execution** (Runtime, Adaptation, Interactions, Flow), **Instruction Governance** (Ownership, Conflict, Priority hierarchy), and **Response Protocol** (Turn, Mode integrity).
