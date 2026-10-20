@@ -7,6 +7,13 @@ icon: clock-rotate-left
 
 {% updates format="full" %}
 {% update date="2026-10-21" %}
+## CORE Execution Grouping Refinement
+
+* Split the former nine-function **Execution** group into **Execution** (Runtime, Adaptation, Interactions, Flow), **Instruction Governance** (Ownership, Conflict, Priority hierarchy), and **Response Protocol** (Turn, Mode integrity).
+* Preserved all nine directives verbatim and maintained CORE as one unified table, without changing simulation behavior or other kernel specifications.
+{% endupdate %}
+
+{% update date="2026-10-21" %}
 ## Framework Architecture: Unified CORE and HUMAN Input
 
 * Rebuilt **CORE** as one table with eight independent groups: System, Goals, Kernel Directives, Simulation, USER Entity, NPC Entity, Consent, and Execution.
