@@ -6,6 +6,16 @@ icon: clock-rotate-left
 # Changelog
 
 {% updates format="full" %}
+{% update date="2026-10-21" %}
+## Framework Architecture: Unified CORE and HUMAN Input
+
+* Rebuilt **CORE** as one table with eight independent groups: System, Goals, Kernel Directives, Simulation, USER Entity, NPC Entity, Consent, and Execution.
+* Moved **System identity** into CORE and added concise universal goals for CORE, HUMAN, WORLD, NPCS, and WRITING.
+* Centralized the four kernel-wide directives in CORE, migrating Human input-binding mechanics to **HUMAN → Input → Binding** while retaining Human authorship and delegation boundaries.
+* Reorganized **HUMAN** into Input and USER Authorship within its existing four-column table, placing OOC and bracketed directions under Input.
+* Preserved the existing simulation, execution, authorship, WORLD, NPCS, and WRITING specifications without changing their detailed functions.
+{% endupdate %}
+
 {% update date="2026-10-17" %}
 ## Simplified USE XML Wrapper
 
