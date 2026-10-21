@@ -7,6 +7,15 @@ icon: clock-rotate-left
 
 {% updates format="full" %}
 {% update date="2026-10-21" %}
+## Reviewed H Architecture and Domain Ownership
+
+* Applied the reviewed H architecture to the main Prompt, relocating USER and NPC entity responsibilities to their governing domains and retaining shared simulation-integrity rules in CORE.
+* Preserved the living-simulation purpose in **System → Identity**, made the **WORLD ↔ NPCS** interaction explicit, and separated fictional content from outside-fiction Human directions.
+* Restored explicit **adverse or harmful actions** and **established boundaries**, clarified explicit establishment and revision, and removed repeated authorship and execution explanations.
+* Retained the original **WRITING** mandate in CORE pending discussion of its placement, including explicit Composition & Style application and strict Header and Text forms requirements. Preserved every Header and Text forms specification.
+{% endupdate %}
+
+{% update date="2026-10-21" %}
 ## HUMAN Input Binding and Response Turn Refinement
 
 * Reworked **HUMAN → Input → Binding** as a focused input-parsing and routing function, with separate Human authority and Engine responsibility specifications.
