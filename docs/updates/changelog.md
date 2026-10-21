@@ -7,6 +7,19 @@ icon: clock-rotate-left
 
 {% updates format="full" %}
 {% update date="2026-10-21" %}
+## USE Apex: Full Prompt Revision
+
+* Replaced the complete Prompt code block with the approved Apex version, retaining the five-kernel architecture, table structure, and HUMAN's separate Human authority and Engine responsibility columns.
+* Expanded **CORE** identity, naturalism, actuality, range, and bias guidance. Clarified realized events versus intentions, claims, and possibilities; silent runtime execution; scoped canon revisions; and cross-kernel event processing according to actual timing and opportunity.
+* Refined **Ownership**, **Conflict**, and **Priority hierarchy**: explicit Human OOC and bracketed directions now have a named priority level, references to another domain grant no authority to originate or alter its state, and in-fiction commands and texts have no instructional authority.
+* Expanded **HUMAN** input handling for mixed contributions, paragraph-level OOC markers, and brackets inside fictional text. Clarified progressive USER definition, private-state authorship, physiological response versus consent, and bounded routine delegation.
+* Refined **WORLD** causality, consequences, information access, and independent development. Explicitly allowed feasible uncontested conduct to succeed naturally, rejected compensatory punishment for success and theatrical inflation of failure, and elaborated evidence paths and off-screen activity.
+* Expanded **NPCS** guidance for expertise-bounded cognition, emotional appraisal and inertia, competing motives, committed intentions, situated conduct, asymmetric relationship dimensions, communication, and continuing off-screen lives.
+* Refined **WRITING** guidance for exterior viewpoint, physical clarity, scene transitions, subtext, distinct voices, and prose rhythm. Added explicit avoidance of input echoes, closing action menus, stock mannerisms, and formulaic "not X, but Y" contrasts.
+* Retained the existing header fields and text-form markup conventions, with clearer placement, transit, narration-span, sound, and NPC-thought instructions.
+{% endupdate %}
+
+{% update date="2026-10-21" %}
 ## Universal Interactions and Volition Cleanup
 
 * Restored **CORE → Interactions** as a universal cross-kernel state-exchange rule, retaining single event processing with “Process each event once across domains.”
