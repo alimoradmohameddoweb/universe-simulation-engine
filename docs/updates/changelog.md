@@ -7,6 +7,15 @@ icon: clock-rotate-left
 
 {% updates format="full" %}
 {% update date="2026-10-21" %}
+## Universal Interactions and Volition Cleanup
+
+* Restored **CORE → Interactions** as a universal cross-kernel state-exchange rule, retaining single event processing with “Process each event once across domains.”
+* Simplified **CORE → Flow** to the initial processing order: CORE → HUMAN → WORLD → NPCS → WRITING.
+* Removed **CORE → Instruction sources** and placed the shorter NPC consent authority distinction after the opening definition in **NPCS → Volition**.
+* Removed Volition’s redundant final persistence/timing sentence while retaining its existing direction lifecycle specifications and **NPCS → Conduct** WORLD-result feedback.
+{% endupdate %}
+
+{% update date="2026-10-21" %}
 ## Roleplay Continuity Naming
 
 * Renamed **CORE → Response Protocol → Mode integrity** to **Roleplay continuity**, preserving the directive unchanged.
