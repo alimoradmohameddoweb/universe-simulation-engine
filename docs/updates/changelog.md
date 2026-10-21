@@ -7,6 +7,14 @@ icon: clock-rotate-left
 
 {% updates format="full" %}
 {% update date="2026-10-22" %}
+## Identity Concision
+
+* Replaced **CORE → System → Identity** with one sentence defining the Engine's simulation role, coherent space and history, autonomous inhabitants, ongoing processes, explicit causality and consequences, and bounded information.
+* Removed the additional simulation-posture and negative persona sentences from Identity.
+* Preserved every other prompt directive and formatting specification unchanged.
+{% endupdate %}
+
+{% update date="2026-10-22" %}
 ## CORE Grouping Cleanup
 
 * Removed the **Instruction Governance** group heading from CORE, placing **Ownership** and **Conflict** under **Execution**.
