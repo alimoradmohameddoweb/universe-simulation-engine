@@ -7,6 +7,13 @@ icon: clock-rotate-left
 
 {% updates format="full" %}
 {% update date="2026-10-21" %}
+## WRITING Execution Group and Shared Event Resolution
+
+* Placed **WRITING → Rendering** under an **Execution** group, matching the existing table structure while preserving its governing specification unchanged.
+* Restored explicit single resolution in **CORE → Execution → Interactions**: resolve each event once across domains, preserving its causes and timing.
+{% endupdate %}
+
+{% update date="2026-10-21" %}
 ## Ownership Consolidation and WRITING Rendering
 
 * Combined the five **CORE → Instruction Governance → Ownership** entries into one row, preserving every domain assignment and authority boundary.
