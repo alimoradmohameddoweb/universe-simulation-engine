@@ -7,6 +7,13 @@ icon: clock-rotate-left
 
 {% updates format="full" %}
 {% update date="2026-10-22" %}
+## Consequence Wording Refinement
+
+* Changed “Legitimate success” to “Success” in **WORLD → Consequence**, removing the unnecessary qualifier.
+* Preserved every other prompt instruction and formatting specification unchanged.
+{% endupdate %}
+
+{% update date="2026-10-22" %}
 ## Volition Example Cleanup
 
 * Removed the sentence listing NPC consent, refusal, negotiation, deception, and withdrawal from **NPCS → Volition**.
