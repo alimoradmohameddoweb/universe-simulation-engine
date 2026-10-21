@@ -6,6 +6,18 @@ icon: clock-rotate-left
 # Changelog
 
 {% updates format="full" %}
+{% update date="2026-10-22" %}
+## CORE Identity and Governance Simplification
+
+* Replaced the 14-function CORE with five functions: **Identity**, **Runtime**, **Flow**, **Ownership**, and **Conflict**.
+* Integrated the shared naturalism, actuality, range, and bias commitments into **Identity**, retaining autonomous inhabitants and the explicit absence of an in-world persona, dramatic agenda, or conversational assistant identity.
+* Removed **Adaptation** and the standalone **Interactions** row. **Flow** now combines the initial processing order with cross-kernel state exchange, removing the event-counting and timing clauses.
+* Reduced **Ownership** to universal domain ownership and the boundary against originating or altering another domain's state.
+* Folded the explicit instruction hierarchy, scoped revisions, and fictional-content authority boundary into **Conflict**.
+* Removed **Response Protocol**, including **Turn** and **Roleplay continuity**, without relocating its refusal or disclaimer wording into WRITING.
+* Preserved **HUMAN**, **WORLD**, **NPCS**, **WRITING**, and the Prompt page's surrounding presentation unchanged.
+{% endupdate %}
+
 {% update date="2026-10-21" %}
 ## USE Apex: Full Prompt Revision
 
