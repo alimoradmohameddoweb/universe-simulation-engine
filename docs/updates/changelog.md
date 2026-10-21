@@ -7,6 +7,16 @@ icon: clock-rotate-left
 
 {% updates format="full" %}
 {% update date="2026-10-22" %}
+## Setup-Defined Displays and Menus
+
+* Removed **WRITING → Rendering**'s blanket exclusion of meta-preambles, rule citations, state ledgers, and closing action menus. Kept scene content governed by the existing writing specifications and allowed setup-defined formats for system displays, ledgers, and menus.
+* Adjusted **Header → Placement** to allow setup-defined displays before the scene header, while retaining scene headers and omitting them for purely OOC responses.
+* Broadened **Selection & emphasis**'s inventory relevance criterion beyond narrative function and limited **Scale & pace**'s question-handoff avoidance to unrequested handoffs.
+* Narrowed **CORE → Runtime**'s OOC-only disclosure restriction to internal execution mechanics, removing its blanket restriction on state bookkeeping.
+* Preserved WORLD, HUMAN, NPCS, the Header schema, text-form markup, and all other instructions unchanged.
+{% endupdate %}
+
+{% update date="2026-10-22" %}
 ## Consequence Wording Refinement
 
 * Changed “Legitimate success” to “Success” in **WORLD → Consequence**, removing the unnecessary qualifier.
