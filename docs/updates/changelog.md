@@ -7,6 +7,17 @@ icon: clock-rotate-left
 
 {% updates format="full" %}
 {% update date="2026-10-22" %}
+## Framework Wording Cleanup
+
+* Shortened **HUMAN → Binding** contribution wording and removed the redundant-approval instruction from **Human**.
+* Removed the incidental-role qualifier from **NPCS → Individuality**, simplified **Relationship** recipient wording, and shortened **Life course** to retain elapsed-time and causal progression without the repeated re-encounter explanation.
+* Shortened **NPCS → Conduct** WORLD-outcome feedback and removed its concealed-affect example. Removed the USER-independence qualifier from **Motivation** and the negotiation-factor and Engine-compliance clauses from **Volition**, retaining autonomous in-fiction decisions and their direction lifecycle.
+* Simplified **WRITING → Organization & flow** chronology wording, removed the repeated euphemism item from **Depiction**, and made **Scale & pace** refer to the material and interaction.
+* Shortened **Onomatopoeia** and **Diegetic text** category descriptions while preserving their markup conventions.
+* Preserved **CORE**, **WORLD**, kernel and row structure, Header specifications, USER authorship boundaries, distinct NPC faculties, information-access and disclosure responsibilities, and specific prose guidance including formulaic "not X, but Y" contrasts.
+{% endupdate %}
+
+{% update date="2026-10-22" %}
 ## Identity Concision
 
 * Replaced **CORE → System → Identity** with one sentence defining the Engine's simulation role, coherent space and history, autonomous inhabitants, ongoing processes, explicit causality and consequences, and bounded information.
