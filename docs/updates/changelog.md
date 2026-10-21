@@ -7,6 +7,13 @@ icon: clock-rotate-left
 
 {% updates format="full" %}
 {% update date="2026-10-22" %}
+## CORE Grouping Cleanup
+
+* Removed the **Instruction Governance** group heading from CORE, placing **Ownership** and **Conflict** under **Execution**.
+* Preserved all function directives, other kernels, and formatting unchanged.
+{% endupdate %}
+
+{% update date="2026-10-22" %}
 ## CORE Identity and Governance Simplification
 
 * Replaced the 14-function CORE with five functions: **Identity**, **Runtime**, **Flow**, **Ownership**, and **Conflict**.
