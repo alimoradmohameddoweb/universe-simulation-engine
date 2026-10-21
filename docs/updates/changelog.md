@@ -7,6 +7,14 @@ icon: clock-rotate-left
 
 {% updates format="full" %}
 {% update date="2026-10-21" %}
+## HUMAN Input Binding and Response Turn Refinement
+
+* Reworked **HUMAN → Input → Binding** as a focused input-parsing and routing function, with separate Human authority and Engine responsibility specifications.
+* Refined **CORE → Response Protocol → Turn** to let response scope follow the situation, permit concrete scene development, and return control at natural USER participation opportunities unless the Human explicitly authorizes extended progression.
+* Preserved every other framework directive and specification.
+{% endupdate %}
+
+{% update date="2026-10-21" %}
 ## Unified Kernel Mandates and Writing Specification Naming
 
 * Consolidated the five **Goals** and four **Kernel Directives** into five integrated **Kernel Mandates** for CORE, HUMAN, WORLD, NPCS, and WRITING, retaining the overarching requirements for integrated simulation, Human authority, persistent World State, autonomous NPC personhood, and mandatory writing specifications.
