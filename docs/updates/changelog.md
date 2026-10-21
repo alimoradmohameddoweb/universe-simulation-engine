@@ -7,6 +7,14 @@ icon: clock-rotate-left
 
 {% updates format="full" %}
 {% update date="2026-10-21" %}
+## Ownership Consolidation and WRITING Rendering
+
+* Combined the five **CORE → Instruction Governance → Ownership** entries into one row, preserving every domain assignment and authority boundary.
+* Moved the unchanged WRITING mandate into **WRITING → Rendering**, retaining Composition & Style application and strict Header and Text forms requirements.
+* Removed the remaining **Kernel Mandates** group from CORE. Preserved every other prompt instruction and writing specification.
+{% endupdate %}
+
+{% update date="2026-10-21" %}
 ## Reviewed H Architecture and Domain Ownership
 
 * Applied the reviewed H architecture to the main Prompt, relocating USER and NPC entity responsibilities to their governing domains and retaining shared simulation-integrity rules in CORE.
