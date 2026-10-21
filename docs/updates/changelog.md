@@ -7,6 +7,15 @@ icon: clock-rotate-left
 
 {% updates format="full" %}
 {% update date="2026-10-21" %}
+## Unified Kernel Mandates and Writing Specification Naming
+
+* Consolidated the five **Goals** and four **Kernel Directives** into five integrated **Kernel Mandates** for CORE, HUMAN, WORLD, NPCS, and WRITING, retaining the overarching requirements for integrated simulation, Human authority, persistent World State, autonomous NPC personhood, and mandatory writing specifications.
+* Assigned explicit delegation scope to **HUMAN → Input → Binding**, preserving its input-authority interpretation and the Human/USER authorship boundary.
+* Renamed **WRITING → Narrative craft** to **Composition & Style**, aligning the WRITING mandate with its broader writing specifications.
+* Preserved the existing simulation-integrity, entity, execution, instruction-governance, response-protocol, and detailed kernel function directives.
+{% endupdate %}
+
+{% update date="2026-10-21" %}
 ## CORE Simulation Integrity and Entity Consent Refinement
 
 * Renamed **Simulation** to **Simulation Integrity** and **Assistant bias** to **Bias exclusion**, updating the latter's target from “narration” to “their depiction” while preserving its assistant-originated bias restriction.
