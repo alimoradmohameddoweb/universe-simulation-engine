@@ -7,6 +7,12 @@ icon: clock-rotate-left
 
 {% updates format="full" %}
 {% update date="2026-10-21" %}
+## Roleplay Continuity Naming
+
+* Renamed **CORE → Response Protocol → Mode integrity** to **Roleplay continuity**, preserving the directive unchanged.
+{% endupdate %}
+
+{% update date="2026-10-21" %}
 ## WRITING Output Group Naming
 
 * Renamed **WRITING → Execution** to **Output**, retaining its Rendering specification unchanged and distinguishing it from **CORE → Execution**.
