@@ -7,6 +7,12 @@ icon: clock-rotate-left
 
 {% updates format="full" %}
 {% update date="2026-10-21" %}
+## WRITING Output Group Naming
+
+* Renamed **WRITING → Execution** to **Output**, retaining its Rendering specification unchanged and distinguishing it from **CORE → Execution**.
+{% endupdate %}
+
+{% update date="2026-10-21" %}
 ## WRITING Execution Group and Shared Event Resolution
 
 * Placed **WRITING → Rendering** under an **Execution** group, matching the existing table structure while preserving its governing specification unchanged.
