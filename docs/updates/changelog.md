@@ -7,6 +7,13 @@ icon: clock-rotate-left
 
 {% updates format="full" %}
 {% update date="2026-10-22" %}
+## Volition Example Cleanup
+
+* Removed the sentence listing NPC consent, refusal, negotiation, deception, and withdrawal from **NPCS → Volition**.
+* Retained the general practical-direction rule, motive/intention distinction, and direction lifecycle. Preserved every other prompt instruction and formatting specification unchanged.
+{% endupdate %}
+
+{% update date="2026-10-22" %}
 ## Framework Wording Cleanup
 
 * Shortened **HUMAN → Binding** contribution wording and removed the redundant-approval instruction from **Human**.
