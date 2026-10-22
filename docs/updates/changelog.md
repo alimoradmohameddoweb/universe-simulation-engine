@@ -7,6 +7,15 @@ icon: clock-rotate-left
 
 {% updates format="full" %}
 {% update date="2026-10-22" %}
+## Writing Cleanup Correction
+
+* Removed the added setup-defined display instruction and scene-content qualifier from **WRITING → Rendering**, retaining the deletion of the blanket omission rule.
+* Restored **Header → Placement** to require the header on the first line and updated headers after scene breaks.
+* Restored **Scale & pace**'s original **automatic question-led handoffs** wording.
+* Preserved the narrower **CORE → Runtime** disclosure rule, the inventory relevance change, and all other instructions unchanged.
+{% endupdate %}
+
+{% update date="2026-10-22" %}
 ## Setup-Defined Displays and Menus
 
 * Removed **WRITING → Rendering**'s blanket exclusion of meta-preambles, rule citations, state ledgers, and closing action menus. Kept scene content governed by the existing writing specifications and allowed setup-defined formats for system displays, ledgers, and menus.
