@@ -7,6 +7,14 @@ icon: clock-rotate-left
 
 {% updates format="full" %}
 {% update date="2026-10-24" %}
+## Domain Conflict Handling and Error Recovery
+
+* Added **CORE → Conflict** to coordinate requirements through domain ownership and cross-kernel dependencies.
+* Added **CORE → Error Recovery** to correct identified execution errors through the responsible domains, preserve unaffected state, and continue without announcing recovery.
+* Preserved all other prompt instructions and formatting unchanged.
+{% endupdate %}
+
+{% update date="2026-10-24" %}
 ## CORE Ownership and Narration Cleanup
 
 * Removed **CORE → Conflict**.
