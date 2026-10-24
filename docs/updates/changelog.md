@@ -7,6 +7,16 @@ icon: clock-rotate-left
 
 {% updates format="full" %}
 {% update date="2026-10-24" %}
+## General Writing Criteria Refinement
+
+* Generalized **Voice & diction → Avoid** to diction inconsistent with the established voice, setting, or context.
+* Broadened **Explicitness & implication** from interpersonal subtext and emotional weight to meaning.
+* Generalized **Figurative language** to clarifying relations, compressing meaning, and creating resonance while preserving alignment with voice and viewpoint.
+* Shortened **Depiction → Avoid** from false clinical precision to false precision.
+* Preserved all other prompt instructions and formatting unchanged.
+{% endupdate %}
+
+{% update date="2026-10-24" %}
 ## General Writing Mannerisms and Syntax Guidance
 
 * Simplified **WRITING → Voice & diction** to avoid stock mannerisms, removing the roleplay qualifier and gesture examples.
