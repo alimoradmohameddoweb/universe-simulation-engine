@@ -6,6 +6,12 @@ icon: clock-rotate-left
 # Changelog
 
 {% updates format="full" %}
+{% update date="2026-10-25" %}
+## OOC Wording Cleanup
+
+* Removed a redundant final sentence from **HUMAN → Input → OOC**; all other wording unchanged.
+{% endupdate %}
+
 {% update date="2026-10-24" %}
 ## General Writing Criteria Refinement
 
