@@ -6,6 +6,18 @@ icon: clock-rotate-left
 # Changelog
 
 {% updates format="full" %}
+{% update date="2026-10-24" %}
+## Universal Rules and Domain Wording Cleanup
+
+* Removed USER-specific causal treatment, narrative centrality, and observer qualifications in favor of universal causality, autonomous development, and relevance-based selection.
+* Reframed HUMAN responsibilities around exclusive USER authorship and positive domain responsibilities, preserving scoped delegation and return of control. Clarified that OOC exchange alone does not advance time or grant in-world knowledge.
+* Removed success/failure commentary and the repeated downstream-history caveat from Consequence, retaining supported propagation, persistence, and causally limited later changes.
+* Trimmed incidental state, causal-factor, conduct, relationship, and sensory examples. Preserved NPC history and experience while removing proportionality, realism, and approval-meter restrictions.
+* Consolidated NPC conduct into a general supported-conduct rule and removed repeated authorship, information-access, and input-handling reminders.
+* Generalized direct depiction within Depiction, made physical clarity relevance-sensitive, and retained a context-adapted narrator voice.
+* Preserved all five kernels and existing rows, universal cross-kernel state exchange, distinct NPC faculties, Header specifications, text-form markup, and remaining prose guidance.
+{% endupdate %}
+
 {% update date="2026-10-22" %}
 ## Writing Cleanup Correction
 
