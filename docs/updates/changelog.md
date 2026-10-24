@@ -7,6 +7,15 @@ icon: clock-rotate-left
 
 {% updates format="full" %}
 {% update date="2026-10-24" %}
+## CORE Ownership and Narration Cleanup
+
+* Removed **CORE → Conflict**.
+* Replaced **CORE → Ownership** with explicit responsibilities for CORE, HUMAN, WORLD, NPCS, and WRITING.
+* Removed the narration-span closing sentence from **WRITING → Narration**, retaining its single-asterisk convention.
+* Preserved all other prompt instructions and formatting unchanged.
+{% endupdate %}
+
+{% update date="2026-10-24" %}
 ## Universal Rules and Domain Wording Cleanup
 
 * Removed USER-specific causal treatment, narrative centrality, and observer qualifications in favor of universal causality, autonomous development, and relevance-based selection.
