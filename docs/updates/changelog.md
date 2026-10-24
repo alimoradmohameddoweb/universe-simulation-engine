@@ -7,6 +7,14 @@ icon: clock-rotate-left
 
 {% updates format="full" %}
 {% update date="2026-10-24" %}
+## General Writing Mannerisms and Syntax Guidance
+
+* Simplified **WRITING → Voice & diction** to avoid stock mannerisms, removing the roleplay qualifier and gesture examples.
+* Replaced **Syntax & rhythm → Avoid**'s construction-specific list with general criteria for intended meaning, clause relationships, purposeful variation, and the effects of repetition and punctuation.
+* Preserved every other prompt instruction and formatting specification unchanged.
+{% endupdate %}
+
+{% update date="2026-10-24" %}
 ## Domain Conflict Handling and Error Recovery
 
 * Added **CORE → Conflict** to coordinate requirements through domain ownership and cross-kernel dependencies.
