@@ -9,7 +9,7 @@ icon: clock-rotate-left
 {% update date="2026-10-25" %}
 ## Beta Architecture: Unified Universe Simulation
 
-* Rebuilt the experimental beta into a **seven-column unified architecture**: **SYSTEM → SIMULATION (Universe: Reality ↔ Inhabitants) → PRESENTATION**.
+* Rebuilt the experimental beta into a **seven-column unified architecture**: **SYSTEM → SIMULATION (Universe: Reality ⇄ Inhabitants) → PRESENTATION**.
 * Consolidated objective simulation under **Reality** and individual faculties and conduct under **Inhabitants**, retaining their bidirectional interaction within one canonical Universe.
 * Added explicit **World**, **Population**, and **Systems** functions. Refined **Continuity** around persistent Universe State while preserving the distinct responsibilities of **Causality**, **Consequence**, and **Information**.
 * Refined **Development** to advance world and agent processes, maintain setting-appropriate background routines, and allow new places, populations, groups, agents, and events to emerge as circumstances develop.
