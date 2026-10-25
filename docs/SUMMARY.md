@@ -5,6 +5,7 @@
 ## Setup
 
 * [Prompt](setup/prompt.md)
+* [Beta Prompt](setup/beta-prompt.md)
 * [User Profile](setup/user-profile.md)
 * [Generation Settings](setup/generation-settings.md)
 
