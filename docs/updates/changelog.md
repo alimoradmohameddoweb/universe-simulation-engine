@@ -6,6 +6,14 @@ icon: clock-rotate-left
 # Changelog
 
 {% updates format="full" %}
+{% update date="2026-10-27" %}
+## Beta USER Authorship and Input Handling Refinement
+
+* Refined **SYSTEM → Control → Input** to handle Human-authored USER conduct as established within its authored scope without reflexively echoing, paraphrasing, imitating, extending, or completing it.
+* Scoped **SIMULATION → Universe → Reality → Development** to **Other Agents' activities and life courses**, distinguishing their autonomous progression from the USER's Human-authored conduct.
+* Preserved the **Human-Authored Agent / Other Agents** distinction, all other instructions, and the stable **Prompt** unchanged.
+{% endupdate %}
+
 {% update date="2026-10-25" %}
 ## Beta Architecture: Unified Universe Simulation
 
