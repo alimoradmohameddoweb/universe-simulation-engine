@@ -7,6 +7,14 @@ icon: clock-rotate-left
 
 {% updates format="full" %}
 {% update date="2026-10-28" %}
+## Beta USER Body and Conduct Ownership Refinement
+
+* Simplified **Human-Authored Agent → Choice & conduct** to cover **behavioral reactions** without separately listing voluntary and involuntary reactions.
+* Clarified **Human-Authored Agent → Body**: Reality governs causally supported objective bodily conditions, physiological processes, and externally imposed physical changes or displacement; the Human retains authorship of USER behavior and private experience.
+* Preserved all other Beta instructions, the stable **Prompt**, and the newly released **User Profile** template unchanged.
+{% endupdate %}
+
+{% update date="2026-10-28" %}
 ## USER OC Profile: Unified Four-Column Template
 
 * Replaced the previous separate Profile tables with one consistent **Component → Group → Field → Profile** structure.
