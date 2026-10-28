@@ -6,6 +6,16 @@ icon: clock-rotate-left
 # Changelog
 
 {% updates format="full" %}
+{% update date="2026-10-29" %}
+## USE V1.6 — Composition & Ownership Refinement
+
+* Reworked all nine **PRESENTATION → Composition & Style** functions for adaptive narrative treatment, coherent organization, distinctive voices, precise depiction, and clear viewpoint and disclosure boundaries.
+* Clarified sparse direct Agent thoughts when outward behavior does not reflect private state; prevented redundant scene recaps, automatic question-led endings, unsolicited action menus, and formulaic handoffs without restricting natural dialogue.
+* Refined **Evolution → Development** and **Agents → Individuality, Cognition, Emotion, Volition, and Communication** to reduce unnecessary restrictions, remove repeated lists, and clarify ownership of change and behavior.
+* Scoped **Error Recovery** commentary to roleplay and separated vocalizations from nonvocal sound effects; kept direct Agent thoughts in single backticks.
+* Preserved USER authorship, independent Agent simulation, bounded information, causality, the Rendering orchestrator, Header schema, the two-column architecture, and the User OC Profile.
+{% endupdate %}
+
 {% update date="2026-10-28" %}
 ## USE V1.5 — Unified Architecture Release
 
