@@ -7,6 +7,16 @@ icon: clock-rotate-left
 
 {% updates format="full" %}
 {% update date="2026-10-28" %}
+## USE V1.5 — Unified Architecture Release
+
+* Released **USE V1.5** as the canonical **Prompt**, replacing the older five-kernel stable architecture with **SYSTEM → SIMULATION (Universe) → PRESENTATION**.
+* Reorganized the simulation as **Setting**, **Mechanics**, **Evolution**, and **Entities**, preserving the Human-authored **USER** and independently simulated **Agents**.
+* Consolidated the framework into one two-column **Function / Specification** table, with explicit heading hierarchies, a structural Reference, and concise Flow.
+* Preserved the main simulation and presentation specifications; refined identity, input/control, ownership, and formatting.
+* Retired the duplicate **Beta Prompt** page. Historical updates remain in this Changelog; the **User Profile** and other setup pages remain unchanged.
+{% endupdate %}
+
+{% update date="2026-10-28" %}
 ## Beta Reality: Unified World Function
 
 * Consolidated **World**, **Population**, and **Systems** into one **World** function covering spatial and material reality, collective populations, and the universe's operating laws and mechanisms.
