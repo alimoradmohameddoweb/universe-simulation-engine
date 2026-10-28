@@ -5,88 +5,57 @@ icon: id-card
 
 # User Profile
 
-{% hint style="info" %}
-Fill the template with your OC's reusable details. Keep scenario-specific and temporary state in the scenario.
-{% endhint %}
-
 {% code title="USER OC Profile" overflow="wrap" fullWidth="true" %}
 ```md
 # USER OC PROFILE: [NAME]
 
-## Identity
+Reusable character definition. Fill only relevant fields; leave temporary conditions and current attire to the scenario.
 
-| Field | Profile |
-| :--- | :--- |
-| **Name** | [Name] |
-| **Aliases** | [Nicknames / aliases] |
-| **Age** | [Age / age range / adaptive rule] |
-| **Gender** | [Gender · pronouns] |
-| **Species** | [Species] |
-| **Nationality** | [Nationality] |
-| **Ethnicity / Origin** | [Ethnic, cultural, or regional origin] |
-| **Languages** | [Languages · fluency] |
-
-## Physical Definition
-
-| Group | Field | Profile |
-| :--- | :--- | :--- |
-| **Overall** | | |
-| | **Height** | [Height] |
-| | **Weight** | [Baseline weight] |
-| | **Frame** | [Skeletal breadth · structural build] |
-| | **Build** | [Body composition · muscular development] |
-| | **Proportions** | [Relative proportions among major body regions] |
-| **Features** | | |
-| | **Skin** | [Tone · texture · complexion] |
-| | **Natural Scent** | [Natural scent, if notable] |
-| | **Hair** | [Color · density · length · texture] |
-| | **Face** | [Shape · defining structure] |
-| | **Jaw / Cheeks** | [Jawline · chin · cheek structure] |
-| | **Eyes** | [Shape · set · visible structure] |
-| | **Irises** | [Color · heterochromia, if applicable] |
-| | **Brows** | [Shape · density · natural character] |
-| | **Nose** | [Shape · structure] |
-| | **Lips** | [Shape · fullness · natural color] |
-| | **Facial Hair** | [Color · density · growth pattern, if applicable] |
-| | **Body Hair** | [Natural distribution · density · color] |
-| | **Distinctive Features** | [Scars · freckles · tattoos · birthmarks · unusual physical traits · etc.] |
-| | **Non-Human Features** | [Type · size · placement · structure, if applicable] |
-| **Body Structure** | | |
-| | **Neck / Shoulders** | [Length · breadth · muscular development] |
-| | **Chest / Torso** | [Shape · breadth · structural and muscular development] |
-| | **Back** | [Width · shape · muscular development] |
-| | **Waist / Abdomen** | [Width · structure · muscular or soft definition] |
-| | **Arms** | [Length · size · muscular development] |
-| | **Forearms / Wrists** | [Build · proportions · notable structural features] |
-| | **Hands** | [Size · fingers · palms · nails · notable features] |
-| | **Hips / Pelvis** | [Width · structure · proportions] |
-| | **Thighs** | [Size · shape · muscular development] |
-| | **Calves / Ankles** | [Shape · development · proportions] |
-| | **Feet** | [Size · shape · notable features] |
-| **Function** | | |
-| | **Physical Capacity** | [Strength · power · speed · endurance · flexibility, as relevant] |
-
-## Baseline Presentation
-
-| Field | Profile |
-| :--- | :--- |
-| **Voice** | [Pitch · timbre · resonance · texture] |
-| **Accent / Cadence** | [Accent · speech rhythm · habitual cadence] |
-| **Hair Styling** | [Usual cut · arrangement · treatments] |
-| **Grooming** | [Facial-hair state · skincare · nails · body-hair grooming] |
-| **Fragrance** | [Typical fragrance · scented products · none] |
-| **Clothing Style** | [Typical wardrobe · cuts · materials · colors · preferences] |
-| **Accessories** | [Usual jewelry · glasses · watch · bag · other recurring accessories] |
-
-## Optional: Intimate Anatomy
-
-| Field | Profile |
-| :--- | :--- |
-| **Configuration** | [Relevant anatomical structures] |
-| **Dimensions** | [Relevant measurements · size · proportions] |
-| **Form** | [Shape · structural geometry · orientation] |
-| **Surface** | [Skin · coloration · texture · vascularity · other surface characteristics] |
-| **Resting State** | [Relevant ordinary resting characteristics] |
-| **Modifications** | [Relevant modifications · none] |
+| Component | Group | Field | Profile |
+|---|---|---|---|
+| **Identity** | | | |
+| | **Core** | | |
+| | | Name | [Name] |
+| | | Aliases | [Nicknames · Other Names] |
+| | | Age | [Age · Range · Setting-Specific Equivalent] |
+| | | Gender & Pronouns | [Gender · Pronouns, If Applicable] |
+| | | Species | [Species · Kind] |
+| | **Background** | | |
+| | | Origin | [Place · Region · Realm] |
+| | | Nationality / Citizenship | [Nationality · Citizenship, If Applicable] |
+| | | Heritage / Culture | [Ancestry · Cultural Background, If Relevant] |
+| | | Languages | [Languages · Proficiency] |
+| **Body** | | | |
+| | **Overall** | | |
+| | | Height | [Height] |
+| | | Weight | [Baseline Weight] |
+| | | Frame & Build | [Skeletal Frame · Musculature · Body Composition] |
+| | | Proportions | [Relative Body Proportions] |
+| | **Features** | | |
+| | | Skin | [Tone · Texture · Surface Qualities] |
+| | | Hair | [Natural Color · Texture · Density] |
+| | | Eyes | [Shape · Structure · Iris Color] |
+| | | Face | [Overall Shape · Defining Features] |
+| | | Body Hair / Covering | [Type · Distribution · Density, If Relevant] |
+| | | Distinctive Marks | [Scars · Birthmarks · Tattoos · Other Marks] |
+| | | Natural Scent | [Distinctive Natural Scent, If Relevant] |
+| | **Anatomy** | | |
+| | | Neck & Shoulders | [Structure · Breadth · Proportions] |
+| | | Torso & Back | [Chest · Abdomen · Back Structure] |
+| | | Arms & Hands | [Limb Proportions · Hands · Digits] |
+| | | Hips & Legs | [Pelvis · Leg Structure · Proportions] |
+| | | Feet | [Structure · Size · Distinctive Features] |
+| | | Additional Anatomy | [Species-Specific Or Distinct Structures, If Relevant] |
+| **Presentation** | | | |
+| | **Voice** | | |
+| | | Vocal Qualities | [Pitch · Timbre · Resonance · Texture] |
+| | | Accent & Cadence | [Accent · Habitual Rhythm · Delivery] |
+| | **Styling** | | |
+| | | Hair Styling | [Usual Cut · Length · Arrangement · Treatments] |
+| | | Grooming | [Usual Grooming · Cosmetics · Personal Care] |
+| | | Fragrance | [Typical Fragrance · Scented Products · None] |
+| | **Attire** | | |
+| | | Clothing Style | [Typical Wardrobe · Silhouettes · Materials · Colors] |
+| | | Accessories | [Recurring Jewelry · Eyewear · Other Accessories] |
 ```
 {% endcode %}

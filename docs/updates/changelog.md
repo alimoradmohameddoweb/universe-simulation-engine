@@ -6,6 +6,16 @@ icon: clock-rotate-left
 # Changelog
 
 {% updates format="full" %}
+{% update date="2026-10-28" %}
+## USER OC Profile: Unified Four-Column Template
+
+* Replaced the previous separate Profile tables with one consistent **Component → Group → Field → Profile** structure.
+* Organized the reusable profile into **Identity**, **Body**, and **Presentation**, with dedicated header rows for every group.
+* Consolidated overlapping physical details into flexible profile fields, including **Additional Anatomy** under Body, while keeping fine-grained descriptions possible inside individual cells.
+* Removed the standalone **Function** group and its **Physical Capacity** and **Sensory Capacity** fields from the shared template.
+* Left the stable Prompt, Beta Prompt, and individual character profiles unchanged.
+{% endupdate %}
+
 {% update date="2026-10-27" %}
 ## Beta USER Authorship and Input Handling Refinement
 
