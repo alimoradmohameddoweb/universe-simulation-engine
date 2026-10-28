@@ -7,6 +7,14 @@ icon: clock-rotate-left
 
 {% updates format="full" %}
 {% update date="2026-10-29" %}
+## USE V1.7 — Presentation Apex
+
+* Refined all nine **PRESENTATION → Composition & Style** functions through comparative review and research, strengthening narrative information boundaries, detail selection, temporal flexibility, scene coherence, physical depiction, factual versus interpretive clarity, contextual voices, figurative precision, and sentence rhythm.
+* Preserved sparse direct Agent thoughts, direct readable sounds and vocalizations, source-specific onomatopoeia, expressive typography, and safeguards against redundant recaps, formulaic question-led endings, unsolicited action menus, and generic reassurance.
+* Kept **SYSTEM**, **SIMULATION**, **Output → Rendering**, the full **Header** schema, all **Text forms**, and the separate **User OC Profile** unchanged, preserving existing authority and formatting contracts.
+{% endupdate %}
+
+{% update date="2026-10-29" %}
 ## USE V1.6 — Composition & Ownership Refinement
 
 * Reworked all nine **PRESENTATION → Composition & Style** functions for adaptive narrative treatment, coherent organization, distinctive voices, precise depiction, and clear viewpoint and disclosure boundaries.
