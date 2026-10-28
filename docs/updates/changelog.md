@@ -7,6 +7,15 @@ icon: clock-rotate-left
 
 {% updates format="full" %}
 {% update date="2026-10-28" %}
+## Beta Reality: Unified World Function
+
+* Consolidated **World**, **Population**, and **Systems** into one **World** function covering spatial and material reality, collective populations, and the universe's operating laws and mechanisms.
+* Reduced Reality from eight functions to six while preserving **Continuity**, **Causality**, **Consequence**, **Information**, and the existing **Development** specification.
+* Updated **Other Agents** to reference the universe's established laws and mechanisms instead of the removed Systems function.
+* The stable **Prompt** and the **User Profile** template remain unchanged.
+{% endupdate %}
+
+{% update date="2026-10-28" %}
 ## Beta USER Body and Conduct Ownership Refinement
 
 * Simplified **Human-Authored Agent → Choice & conduct** to cover **behavioral reactions** without separately listing voluntary and involuntary reactions.
