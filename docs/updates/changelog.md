@@ -7,6 +7,13 @@ icon: clock-rotate-left
 
 {% updates format="full" %}
 {% update date="2026-10-29" %}
+## USE V1.7.2 — Temporal Scope Clarification
+
+* Added one clause to **PRESENTATION → Composition & Style → Scale & pace → Avoid** discouraging advancement to future events solely because the Human mentioned them, following reports of responses skipping ahead to scheduled events.
+* Preserved all other Engine specifications, USER authorship, independent Agent development, temporal flexibility, scene transitions, Headers, and Text forms.
+{% endupdate %}
+
+{% update date="2026-10-29" %}
 ## Documentation — Navigation Rework & NPC Template
 
 * Reorganized documentation into **Engine**, **Character Templates**, **Chat Tools**, and **Updates**.
