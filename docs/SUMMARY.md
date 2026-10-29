@@ -10,8 +10,9 @@
 
 ***
 
-* [Generation Settings](generation-settings/README.md)
-  * [Setting](generation-settings/setting.md)
+## Generation Settings <a href="#generation-settings" id="generation-settings"></a>
+
+* [Setting](generation-settings/setting.md)
 ## Templates <a href="#character-templates" id="character-templates"></a>
 
 * [USER Profile](character-templates/user-oc-profile.md)
