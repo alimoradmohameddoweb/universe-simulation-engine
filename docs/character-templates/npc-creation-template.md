@@ -1,5 +1,6 @@
 ---
 description: Optional copy-ready profile for independent USE Agents and NPCs.
+icon: user-plus
 ---
 
 # NPC Creation Template
