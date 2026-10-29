@@ -8,11 +8,10 @@
 * [Generation Settings Has Moved](setup/generation-settings.md)
 * [USER Profile Has Moved](setup/user-profile.md)
 
-***
-
-## Generation Settings <a href="#generation-settings" id="generation-settings"></a>
+## Generation Settings
 
 * [Setting](generation-settings/setting.md)
+
 ## Templates <a href="#character-templates" id="character-templates"></a>
 
 * [USER Profile](character-templates/user-oc-profile.md)
