@@ -4,17 +4,28 @@ icon: house
 
 # Overview
 
-> Universe Simulation Engine is a system prompt for persistent roleplay: a world that develops beyond the current scene, NPCs with their own perspectives and goals, and events whose consequences carry forward. Start with the setup below, then use OOC commands to direct the roleplay and compaction to preserve its history as the chat grows.
+> **Universe Simulation Engine (USE)** is a system prompt for persistent, independent roleplay. The universe develops through its own conditions, with autonomous Agents, coherent world mechanics, and consequences that carry forward.
 
-## Setup
+## Getting Started
 
-1. Copy [Prompt](setup/prompt.md) into your model’s **System Prompt**.
-2. Fill [User Profile](setup/user-profile.md).
-3. Apply [Generation Settings](setup/generation-settings.md).
+Copy the [USE Prompt](engine/prompt.md) into your model's **System Prompt**. This is the only essential USE resource.
+
+## Engine
+
+* [**Prompt**](engine/prompt.md)**:** The complete simulation engine.
+* [**Generation Settings**](engine/generation-settings.md)**:** Optional Janitor AI settings recommendations, not required to run USE.
+
+## Character Templates
+
+Optional copy-ready character definitions. Use either template, both, or neither.
+
+* [**USER OC Profile**](character-templates/user-oc-profile.md)**:** Define the in-universe USER at setup or progressively.
+* [**NPC Creation Template**](character-templates/npc-creation-template.md)**:** Establish starting characteristics for independent Agents without scripting their future conduct.
 
 ## Chat Tools
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4>⌨️</h4></td><td><strong>OOC &#x26; Commands</strong></td><td>Direct or inspect the roleplay outside the scene.</td><td><a href="chat-tools/ooc-and-commands.md">ooc-and-commands.md</a></td></tr><tr><td><h4>🗜️</h4></td><td><strong>Compaction</strong></td><td>Save and restore chat memory.</td><td><a href="chat-tools/compaction.md">compaction.md</a></td></tr></tbody></table>
+* [**OOC & Commands**](chat-tools/ooc-and-commands.md)**:** Optional outside-fiction inspection and silent directions.
+* [**Compaction**](chat-tools/compaction.md)**:** Optional chat-history checkpoints for long sessions.
 
 ## Updates
 

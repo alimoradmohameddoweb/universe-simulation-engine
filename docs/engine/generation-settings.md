@@ -1,11 +1,11 @@
 ---
-description: Recommended Universe Simulation Engine generation baseline.
+description: Optional Janitor AI generation settings reference.
 icon: gear
 ---
 
 # Generation Settings
 
-Use the following values for the **Janitor AI** setup.
+These are **optional recommendations** for **Janitor AI**, not required settings for USE. Different models and providers may need different values.
 
 | Setting                | Recommended                                             |
 | ---------------------- | ------------------------------------------------------- |

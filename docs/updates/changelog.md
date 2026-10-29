@@ -7,6 +7,15 @@ icon: clock-rotate-left
 
 {% updates format="full" %}
 {% update date="2026-10-29" %}
+## Documentation — Navigation Rework & NPC Template
+
+* Reorganized documentation into **Engine**, **Character Templates**, **Chat Tools**, and **Updates**.
+* Clarified that the **USE Prompt** is the only essential component; Generation Settings, character templates, and chat utilities are optional.
+* Published the nine-component **NPC Creation Template** with a compact **Mind** section for characteristic cognitive, emotional, and motivational tendencies, not frozen mental states.
+* Moved **USER OC Profile** into Character Templates while preserving existing profile fields, the current Engine Prompt, chat tools, and previous release history.
+{% endupdate %}
+
+{% update date="2026-10-29" %}
 ## USE V1.7.1 — Life Course and Terminology Refinement
 
 * Expanded **Agents → Life → Life course** to encompass independent everyday lives, personal development, growth, learning, adaptation, stability, setbacks, decline, and progress during periods without direct observation or interaction; grounded changes in elapsed time, Agent conduct, circumstances, and accumulated consequences.

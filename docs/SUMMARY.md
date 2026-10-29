@@ -2,11 +2,16 @@
 
 * [Overview](README.md)
 
-## Setup
+## Engine
 
-* [Prompt](setup/prompt.md)
-* [User Profile](setup/user-profile.md)
-* [Generation Settings](setup/generation-settings.md)
+* [Prompt](engine/prompt.md)
+* [Generation Settings](engine/generation-settings.md)
+
+***
+
+* [Character Templates](character-templates/README.md)
+  * [USER OC Profile](character-templates/user-oc-profile.md)
+  * [NPC Creation Template](character-templates/npc-creation-template.md)
 
 ## Chat Tools
 

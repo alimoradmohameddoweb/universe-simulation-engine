@@ -3,7 +3,9 @@ description: Copy-ready USER OC profile.
 icon: id-card
 ---
 
-# User Profile
+# USER OC Profile
+
+This optional template defines Human-authored USER characteristics; it is not required for USE. Define relevant details now or progressively during play.
 
 {% code title="USER OC Profile" overflow="wrap" fullWidth="true" %}
 ```md
