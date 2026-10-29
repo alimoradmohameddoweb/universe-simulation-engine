@@ -12,9 +12,10 @@
 
 * [Generation Settings](generation-settings/README.md)
   * [Setting](generation-settings/setting.md)
-* [Templates](character-templates/README.md)
-  * [USER Profile](character-templates/user-oc-profile.md)
-  * [NPC Profile](character-templates/npc-creation-template.md)
+## Templates <a href="#character-templates" id="character-templates"></a>
+
+* [USER Profile](character-templates/user-oc-profile.md)
+* [NPC Profile](character-templates/npc-creation-template.md)
 
 ## Chat Tools
 
