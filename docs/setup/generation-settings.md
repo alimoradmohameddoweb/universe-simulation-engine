@@ -7,4 +7,4 @@ hidden: true
 
 The Optional Settings Reference Is Now A Standalone Documentation Page.
 
-[Open Generation Settings](../generation-settings.md)
+[Open Generation Settings](../generation-settings/setting.md)

@@ -16,7 +16,9 @@ Copy the [USE Prompt](setup/prompt.md) into your model's **System Prompt**. This
 
 ## Generation Settings
 
-* [**Generation Settings**](generation-settings.md)**:** Optional model and platform configuration recommendations, separate from the Engine.
+An optional configuration reference, separate from the Engine.
+
+* [**Setting**](generation-settings/setting.md)**:** Recommended Janitor AI generation values.
 
 ## Character Templates
 

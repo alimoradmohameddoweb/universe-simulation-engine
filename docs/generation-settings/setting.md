@@ -1,9 +1,9 @@
 ---
 description: Optional Janitor AI generation settings reference.
-icon: gear
+icon: sliders
 ---
 
-# Generation Settings
+# Setting
 
 These are **optional recommendations** for **Janitor AI**, not required settings for USE. Different models and providers may need different values.
 

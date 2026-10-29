@@ -10,7 +10,8 @@
 
 ***
 
-* [Generation Settings](generation-settings.md)
+* [Generation Settings](generation-settings/README.md)
+  * [Setting](generation-settings/setting.md)
 * [Character Templates](character-templates/README.md)
   * [USER OC Profile](character-templates/user-oc-profile.md)
   * [NPC Creation Template](character-templates/npc-creation-template.md)

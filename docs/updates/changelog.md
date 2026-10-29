@@ -20,7 +20,7 @@ icon: clock-rotate-left
 * Clarified that the **USE Prompt** is the only essential component; Generation Settings, character templates, and chat utilities are optional.
 * Published the nine-component **NPC Creation Template** with a compact **Mind** section for characteristic cognitive, emotional, and motivational tendencies, not frozen mental states.
 * Moved **USER OC Profile** into Character Templates while preserving existing profile fields, the current Engine Prompt, chat tools, and previous release history.
-* Placed optional **Generation Settings** outside the Engine section as a standalone reference; preserved its previous URL through a compatibility page.
+* Placed optional **Generation Settings** outside the Engine as its own expandable section with one **Setting** page; retained the former URL as a landing page and the older Setup URL as a compatibility page.
 {% endupdate %}
 
 {% update date="2026-10-29" %}
