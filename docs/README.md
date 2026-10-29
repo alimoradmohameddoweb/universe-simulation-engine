@@ -20,12 +20,12 @@ An optional configuration reference, separate from the Engine.
 
 * [**Setting**](generation-settings/setting.md)**:** Recommended Janitor AI generation values.
 
-## Character Templates
+## Templates
 
-Optional copy-ready character definitions. Use either template, both, or neither.
+Optional copy-ready character profiles. Use either template, both, or neither.
 
-* [**USER OC Profile**](character-templates/user-oc-profile.md)**:** Define the in-universe USER at setup or progressively.
-* [**NPC Creation Template**](character-templates/npc-creation-template.md)**:** Establish starting characteristics for independent Agents without scripting their future conduct.
+* [**USER Profile**](character-templates/user-oc-profile.md)**:** Define the in-universe USER at setup or progressively.
+* [**NPC Profile**](character-templates/npc-creation-template.md)**:** Establish starting characteristics for independent Agents without scripting their future conduct.
 
 ## Chat Tools
 

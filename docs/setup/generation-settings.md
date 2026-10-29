@@ -1,10 +1,10 @@
 ---
-description: Legacy link to optional Generation Settings.
+description: Previous URL for the optional Generation Settings page.
 hidden: true
 ---
 
 # Generation Settings Has Moved
 
-The Optional Settings Reference Is Now A Standalone Documentation Page.
+Generation Settings now has its own section, separate from Engine.
 
-[Open Generation Settings](../generation-settings/setting.md)
+[Open Setting](../generation-settings/setting.md) to view the optional recommendations.

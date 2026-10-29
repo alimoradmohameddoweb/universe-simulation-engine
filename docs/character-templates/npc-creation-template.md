@@ -1,9 +1,9 @@
 ---
-description: Optional copy-ready profile for independent USE Agents and NPCs.
+description: Optional copy-ready NPC profile for independent USE Agents.
 icon: user-plus
 ---
 
-# NPC Creation Template
+# NPC Profile
 
 Use this optional template to establish an independent Agent's starting characteristics, relationships, and circumstances. Fill only relevant fields; the Engine continues to simulate Agent thoughts, actions, and development dynamically. The template is not required for USE.
 

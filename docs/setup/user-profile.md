@@ -1,12 +1,12 @@
 ---
-description: Legacy link to the relocated USER OC Profile.
+description: Previous URL for the optional USER Profile.
 hidden: true
 ---
 
 # USER Profile Has Moved
 
-The USER OC Profile Is Now Under **Character Templates**.
+The USER Profile is now under **Templates**.
 
-[Open The USER OC Profile](../character-templates/user-oc-profile.md)
+[Open USER Profile](../character-templates/user-oc-profile.md).
 
-The Profile Is Optional. The USE Prompt Is The Only Essential Component.
+The profile is optional; the USE Prompt is the only essential component.

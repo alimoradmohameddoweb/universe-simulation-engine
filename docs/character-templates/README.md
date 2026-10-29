@@ -1,10 +1,11 @@
 ---
-icon: users
+description: Optional reusable character profiles for USE.
+icon: layer-group
 ---
 
-# Character Templates
+# Templates
 
-Reusable, optional profiles for defining characters. Neither template is needed to run the Engine, and unfilled fields do not have to be invented just to complete a sheet.
+Copy-ready character profiles. Neither template is required to run USE; include only established details and leave the rest open.
 
-* [**USER OC Profile**](user-oc-profile.md)**:** Human-authored identity, body, and presentation for the in-universe USER. Personal definition can also be supplied progressively.
-* [**NPC Creation Template**](npc-creation-template.md)**:** Initial definition for independent Agents, including Individuality, Mind tendencies, Agency, Social, and Life. The Engine continues to govern their thoughts, conduct, consequences, and development.
+* [**USER Profile**](user-oc-profile.md)**:** Human-authored identity, body, and presentation of the in-universe USER. Personal definition can also be supplied progressively.
+* [**NPC Profile**](npc-creation-template.md)**:** Initial definition of independent Agents, including individuality, cognitive and emotional tendencies, commitments, relationships, and life circumstances. Their minds, decisions, and development remain dynamically simulated.

@@ -1,9 +1,9 @@
 ---
-description: Copy-ready USER OC profile.
+description: Optional copy-ready USER character profile.
 icon: id-card
 ---
 
-# USER OC Profile
+# USER Profile
 
 This optional template defines Human-authored USER characteristics; it is not required for USE. Define relevant details now or progressively during play.
 

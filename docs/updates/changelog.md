@@ -7,6 +7,14 @@ icon: clock-rotate-left
 
 {% updates format="full" %}
 {% update date="2026-10-29" %}
+## Documentation — Templates and Site Consistency
+
+* Renamed the **Character Templates** navigation section to **Templates**, with **USER Profile** and **NPC Profile** as its two children.
+* Updated the Overview, profile page headings, template landing page, and old Setup compatibility notices; aligned labels and descriptions without changing either copy-ready profile.
+* Retained the existing public page paths and IDs to preserve shared links; left the Engine prompt, optional Generation Settings, Chat Tools, and earlier changelog entries unchanged.
+{% endupdate %}
+
+{% update date="2026-10-29" %}
 ## USE V1.7.2 — Temporal Scope Clarification
 
 * Added one clause to **PRESENTATION → Composition & Style → Scale & pace → Avoid** discouraging advancement to future events solely because the Human mentioned them, following reports of responses skipping ahead to scheduled events.
