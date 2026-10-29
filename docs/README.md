@@ -13,7 +13,10 @@ Copy the [USE Prompt](setup/prompt.md) into your model's **System Prompt**. This
 ## Engine
 
 * [**Prompt**](setup/prompt.md)**:** The complete simulation engine.
-* [**Generation Settings**](setup/generation-settings.md)**:** Optional Janitor AI settings recommendations, not required to run USE.
+
+## Generation Settings
+
+* [**Generation Settings**](generation-settings.md)**:** Optional model and platform configuration recommendations, separate from the Engine.
 
 ## Character Templates
 

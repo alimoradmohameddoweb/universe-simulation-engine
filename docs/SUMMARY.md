@@ -5,11 +5,12 @@
 ## Engine <a href="#setup" id="setup"></a>
 
 * [Prompt](setup/prompt.md)
-* [Generation Settings](setup/generation-settings.md)
+* [Generation Settings Has Moved](setup/generation-settings.md)
 * [USER Profile Has Moved](setup/user-profile.md)
 
 ***
 
+* [Generation Settings](generation-settings.md)
 * [Character Templates](character-templates/README.md)
   * [USER OC Profile](character-templates/user-oc-profile.md)
   * [NPC Creation Template](character-templates/npc-creation-template.md)
