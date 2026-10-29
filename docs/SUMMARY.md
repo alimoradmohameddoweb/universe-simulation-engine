@@ -2,10 +2,11 @@
 
 * [Overview](README.md)
 
-## Engine
+## Engine <a href="#setup" id="setup"></a>
 
-* [Prompt](engine/prompt.md)
-* [Generation Settings](engine/generation-settings.md)
+* [Prompt](setup/prompt.md)
+* [Generation Settings](setup/generation-settings.md)
+* [USER Profile Has Moved](setup/user-profile.md)
 
 ***
 

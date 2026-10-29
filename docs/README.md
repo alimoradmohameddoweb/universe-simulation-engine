@@ -8,12 +8,12 @@ icon: house
 
 ## Getting Started
 
-Copy the [USE Prompt](engine/prompt.md) into your model's **System Prompt**. This is the only essential USE resource.
+Copy the [USE Prompt](setup/prompt.md) into your model's **System Prompt**. This is the only essential USE resource.
 
 ## Engine
 
-* [**Prompt**](engine/prompt.md)**:** The complete simulation engine.
-* [**Generation Settings**](engine/generation-settings.md)**:** Optional Janitor AI settings recommendations, not required to run USE.
+* [**Prompt**](setup/prompt.md)**:** The complete simulation engine.
+* [**Generation Settings**](setup/generation-settings.md)**:** Optional Janitor AI settings recommendations, not required to run USE.
 
 ## Character Templates
 
