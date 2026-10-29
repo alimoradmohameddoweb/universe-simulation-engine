@@ -7,6 +7,14 @@ icon: clock-rotate-left
 
 {% updates format="full" %}
 {% update date="2026-10-29" %}
+## USE V1.7.1 — Life Course and Terminology Refinement
+
+* Expanded **Agents → Life → Life course** to encompass independent everyday lives, personal development, growth, learning, adaptation, stability, setbacks, decline, and progress during periods without direct observation or interaction; grounded changes in elapsed time, Agent conduct, circumstances, and accumulated consequences.
+* Replaced six uses of **narrative** with more precise terms across **SYSTEM → Ownership**, **SIMULATION → Mechanics → Information**, **PRESENTATION → Composition & Style → Scale & pace**, and **Text forms → Narration**, clarifying that simulation operates independently of story framing.
+* Preserved every other rule, including the nine research-refined Composition & Style functions, USER authorship boundaries, simulation mechanics, Header and Text forms contracts, and the standalone User OC Profile.
+{% endupdate %}
+
+{% update date="2026-10-29" %}
 ## USE V1.7 — Presentation Apex
 
 * Refined all nine **PRESENTATION → Composition & Style** functions through comparative review and research, strengthening narrative information boundaries, detail selection, temporal flexibility, scene coherence, physical depiction, factual versus interpretive clarity, contextual voices, figurative precision, and sentence rhythm.
