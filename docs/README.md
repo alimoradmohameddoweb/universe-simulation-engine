@@ -4,19 +4,19 @@ icon: house
 
 # Overview
 
-> **Universe Simulation Engine (USE)** is a system prompt for persistent, independent roleplay. The universe develops through its own conditions, with autonomous Agents, coherent world mechanics, and consequences that carry forward.
+> **Universe Simulation System (USS)** is a system prompt for persistent, independent roleplay. The universe develops through its own conditions, with autonomous Agents, coherent world mechanics, and consequences that carry forward.
 
 ## Getting Started
 
-Copy the [USE Prompt](setup/prompt.md) into your model's **System Prompt**. This is the only essential USE resource.
+Copy the [USS Prompt](setup/prompt.md) into your model's **System Prompt**. This is the only essential USS resource.
 
-## Engine
+## System
 
-* [**Prompt**](setup/prompt.md)**:** The complete simulation engine.
+* [**Prompt**](setup/prompt.md)**:** The complete simulation system.
 
 ## Generation Settings
 
-An optional configuration reference, separate from the Engine.
+An optional configuration reference, separate from the USS prompt.
 
 * [**Setting**](generation-settings/setting.md)**:** Recommended Janitor AI generation values.
 

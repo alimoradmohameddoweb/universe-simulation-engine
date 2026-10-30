@@ -5,12 +5,11 @@ icon: id-card
 
 # USER Profile
 
-This optional template defines Human-authored USER characteristics; it is not required for USE. Define relevant details now or progressively during play.
+This optional template defines Human-authored USER characteristics; it is not required for USS. Define relevant details now or progressively during play.
 
-{% code title="USER OC Profile" overflow="wrap" fullWidth="true" %}
+{% code title="USER Profile" overflow="wrap" fullWidth="true" %}
 ```
-USER OC PROFILE: [NAME]
-
+<USER_PROFILE>
 Reusable character definition. Fill only relevant fields; leave temporary conditions and current attire to the scenario.
 
 Identity
@@ -57,5 +56,6 @@ Presentation
   Attire
     Clothing Style: [Typical Wardrobe · Silhouettes · Materials · Colors]
     Accessories: [Recurring Jewelry · Eyewear · Other Accessories]
+</USER_PROFILE>
 ```
 {% endcode %}

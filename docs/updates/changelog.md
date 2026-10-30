@@ -6,6 +6,15 @@ icon: clock-rotate-left
 # Changelog
 
 {% updates format="full" %}
+{% update date="2026-10-30" %}
+## USS — System Identity and Wrapper Consolidation
+
+* Renamed the current framework **Universe Simulation System (USS)**, preserving its **SYSTEM → SIMULATION (Universe) → PRESENTATION** architecture and all 47 TreeSpec rules.
+* Replaced the original `<USE>` wrapper and redundant standalone title with a single `<USS>` wrapper; changed **Identity → Engine** to **Identity → System** and updated the identity declaration.
+* Wrapped the optional USER and NPC templates in `<USER_PROFILE>` and `<AGENT_PROFILE>`, removing duplicate standalone template headings while preserving all 33 USER fields and 57 NPC fields, their placeholders, and their ordering.
+* Aligned current-facing documentation, optional settings references, and navigation labels with USS. Preserved existing public page paths and historical changelog entries.
+{% endupdate %}
+
 {% update date="2026-10-29" %}
 ## Documentation — Templates and Site Consistency
 

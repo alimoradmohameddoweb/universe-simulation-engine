@@ -5,6 +5,6 @@ hidden: true
 
 # Generation Settings Has Moved
 
-Generation Settings now has its own section, separate from Engine.
+Generation Settings now has its own section, separate from the USS prompt.
 
 [Open Setting](../generation-settings/setting.md) to view the optional recommendations.

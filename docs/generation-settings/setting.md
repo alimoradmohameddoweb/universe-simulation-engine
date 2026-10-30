@@ -5,7 +5,7 @@ icon: sliders
 
 # Setting
 
-These are **optional recommendations** for **Janitor AI**, not required settings for USE. Different models and providers may need different values.
+These are **optional recommendations** for **Janitor AI**, not required settings for USS. Different models and providers may need different values.
 
 | Setting                | Recommended                                             |
 | ---------------------- | ------------------------------------------------------- |

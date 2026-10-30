@@ -1,17 +1,16 @@
 ---
-description: Optional copy-ready NPC profile for independent USE Agents.
+description: Optional copy-ready NPC profile for independent USS Agents.
 icon: user-plus
 ---
 
 # NPC Profile
 
-Use this optional template to establish an independent Agent's starting characteristics, relationships, and circumstances. Fill only relevant fields; the Engine continues to simulate Agent thoughts, actions, and development dynamically. The template is not required for USE.
+Use this optional template to establish an independent Agent's starting characteristics, relationships, and circumstances. Fill only relevant fields; the System continues to simulate Agent thoughts, actions, and development dynamically. The template is not required for USS.
 
-{% code title="AGENT CHARACTER PROFILE" overflow="wrap" fullWidth="true" %}
+{% code title="Agent Profile" overflow="wrap" fullWidth="true" %}
 ```
-AGENT CHARACTER PROFILE: [NAME]
-
-An initial profile for an independent USE Agent. Fill only established, relevant details; omit unspecified fields. Entries establish starting conditions, not permanent scripts. Subsequent cognition, emotion, conduct, relationships, and life changes remain governed by SIMULATION.
+<AGENT_PROFILE>
+An initial profile for an independent USS Agent. Fill only established, relevant details; omit unspecified fields. Entries establish starting conditions, not permanent scripts. Subsequent cognition, emotion, conduct, relationships, and life changes remain governed by SIMULATION.
 
 Identity
   Core
@@ -99,5 +98,6 @@ Life & History
     Everyday Routines: [Recurring Activities · Lifestyle Patterns]
     Ongoing Projects: [Established Pursuits · Personal Projects]
     Ongoing Situations: [Active Circumstances · Existing Pressures Or Opportunities]
+</AGENT_PROFILE>
 ```
 {% endcode %}
