@@ -5,8 +5,6 @@
 ## System <a href="#setup" id="setup"></a>
 
 * [Prompt](setup/prompt.md)
-* [Generation Settings Has Moved](setup/generation-settings.md)
-* [USER Profile Has Moved](setup/user-profile.md)
 
 ## Generation Settings
 
