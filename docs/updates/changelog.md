@@ -7,13 +7,42 @@ icon: clock-rotate-left
 
 {% updates format="full" %}
 {% update date="2026-11-13" %}
-## FRAMEWORK — Wrapper Renaming and Presentation Cleanup
+## FRAMEWORK — Composition, Canonical State, and Expression Restructure
 
-Renamed the framework wrapper from `<USS>` to `<FRAMEWORK>` and renumbered the top-level sections as **I: SYSTEM**, **II: SIMULATION**, and **III: PRESENTATION**.
+Removed the `<FRAMEWORK>` XML wrapper; Replaced By `<RUNTIME>`.
 
-* Renamed **Execution → Framework Architecture** to **Execution → Architecture** and split **Identity** into **Name** and **Role**, removing the second-person identity phrasing and bold emphasis.
-* Tightened **PRESENTATION → Composition & Style**: **Viewpoint & disclosure** now specifies a “primarily exterior focus” and drops the explicit sparse Agent-thought instruction; **Selection & emphasis** removes the “predetermined dramatic rank” clause; **Scale & pace** removes `summaries` from the named pacing modes.
-* Reworked **Header**: **Snapshot** now populates each field from canonical Universe State and establishes unset details “consistently with the established Universe”; **Format** changed from one pipe-delimited bracket to separate `[Time: …] [Date: …] [Weather: …] [Location: …]` fields; **Placement** now places updated headers immediately before the following scene after each `---` break and no longer states that headers are omitted for purely OOC responses.
-* Preserved all simulation mechanics, entity rules, Agent cognition/agency/social/life specifications, **Text forms**, and the remaining **Composition & Style** guidance unchanged.
+#### Structure
+
+* Renamed **SIMULATION → Setting** to **SIMULATION → Composition** and updated **Architecture** and **Ownership** accordingly (world's contents, populations, and operating laws).
+* Restructured **PRESENTATION** from four groups (**Output**, **Composition & Style**, **Header**, **Text forms**) into one consolidated **Expression & Style** group.
+* Removed **Output → Rendering**; rendering is now implied by **Expression & Style → General Style**.
+
+#### Mechanics
+
+* Added a **Canonical State** grouping under **Mechanics**, co-locating **Continuity** with the new **World State Ledger** function.
+* Moved the full **Header** specification (Snapshot, Format, Placement, Travel) from **PRESENTATION** into **Mechanics → Canonical State → World State Ledger**, now with emoji field markers (🕒 📅 🌤️ 📍) replacing bracketed labels.
+* Updated **Continuity**'s open-details clause from “emerge through Development” to “emerge through Evolution.”
+
+#### Evolution
+
+* Split **Evolution → Development** into **Evolution → Universe** (environments, populations, institutions, systems, events) and **Evolution → Inhabitants** (non-USER lives, routines, relationships, aging, growth, setbacks, trajectories).
+
+#### Entities
+
+* Moved **Volition** from **Agency** into **Mind**; **Agency** now contains only **Conduct**.
+* Expanded **Individuality** with personal history, accumulated life experiences, and identity continuity feeding into self-understanding.
+* Removed the standalone **Agents → Life → Life course** function; its content now lives in **Evolution → Inhabitants** (ongoing development) and **Individuality** (identity state).
+
+#### Presentation
+
+* Added **General Style**, defining overall writing style and quality standards (High-quality / Literary / Clean-prose / Graphical / Vivid / Rich / Sensory / Observable / Explicit / Dynamic / Uncensored).
+* Renamed **Explicitness & implication** to **Directness & implication**; reworded Apply from “Balance” to “Dynamically balance.”
+* Restructured **Depiction** into **General / Physical / Auditory** sub-functions with **Avoid** consolidated.
+* Removed expressive-symbol guidance from **Voice & diction**; symbols now live under **Textual Conventions → Typography**.
+* Consolidated **Text forms** into **Textual Conventions** (Narration, Dialogue & vocals, Agent thoughts, Onomatopoeia, Typography); removed the separate **Diegetic text** convention.
+* Added a compatibility clause to **Agent thoughts**: backticks remain primary “unless using a different established format,” so bot-card greetings that use bold or emoji for thoughts are not overwritten.
+* Trimmed **Scale & pace** Apply (“keeping elapsed world time distinct from textual length”) and Avoid (“advancing to future events solely because they are mentioned”); both are now model-specific concerns rather than universal rules.
+
+Preserved all Causality, Consequence, and Information mechanics; USER authorship boundaries; Agent Cognition, Emotion, Motivation, Conduct, Relationship, and Communication; and the remaining style guidance.
 {% endupdate %}
 {% endupdates %}
