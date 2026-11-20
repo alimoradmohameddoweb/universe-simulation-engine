@@ -7,42 +7,53 @@ icon: clock-rotate-left
 
 {% updates format="full" %}
 {% update date="2026-11-13" %}
-## FRAMEWORK — Composition, Canonical State, and Expression Restructure
+## FRAMEWORK — Full Rebuild: Markdown Format, Epistemics, and Causal Decomposition
 
-Removed the `<FRAMEWORK>` XML wrapper; Replaced By `<RUNTIME>`.
+Rebuilt the framework from TreeSpec indentation into Markdown, wrapped in `<|SYSTEM|>` / `<|/SYSTEM|>`. Same rules, restructured throughout for native model parsing. Net token count held roughly flat — new sections funded by consolidation elsewhere.
 
-#### Structure
+#### Wrapper & format
 
-* Renamed **SIMULATION → Setting** to **SIMULATION → Composition** and updated **Architecture** and **Ownership** accordingly (world's contents, populations, and operating laws).
-* Restructured **PRESENTATION** from four groups (**Output**, **Composition & Style**, **Header**, **Text forms**) into one consolidated **Expression & Style** group.
-* Removed **Output → Rendering**; rendering is now implied by **Expression & Style → General Style**.
+* Replaced the `<RUNTIME>` wrapper with `<|SYSTEM|>` / `<|/SYSTEM|>` ChatML delimiters.
+* Rebuilt all specifications in Markdown (headings, bullet lists, bold labels) instead of TreeSpec indentation.
+* **Identity** rewritten as second-person: `Engine: You are the Universe Simulation System...` instead of `Name:` / `Role:` label pairs.
 
-#### Mechanics
+#### SYSTEM
 
-* Added a **Canonical State** grouping under **Mechanics**, co-locating **Continuity** with the new **World State Ledger** function.
-* Moved the full **Header** specification (Snapshot, Format, Placement, Travel) from **PRESENTATION** into **Mechanics → Canonical State → World State Ledger**, now with emoji field markers (🕒 📅 🌤️ 📍) replacing bracketed labels.
-* Updated **Continuity**'s open-details clause from “emerge through Development” to “emerge through Evolution.”
+* Added **Reference** glossary under **Execution** defining **Human**, **USER**, **Agents**, **Universe**, and **Presentation** before first use.
+* Promoted **Human Input** to **Human Interface** as a peer layer under `I: SYSTEM` (alongside **Identity** and **Execution**).
+* Extracted **Human Authority** as its own top-level line — "Treat Human-authored USER conduct as established within its authored scope" now stands alone rather than being buried inside Input.
+* **Architecture** and **Ownership** updated for the new layer order: `[Identity | Execution | Human Interface]` and `[Composition | Mechanics | Entities | Evolution]`.
 
-#### Evolution
+#### SIMULATION
 
-* Split **Evolution → Development** into **Evolution → Universe** (environments, populations, institutions, systems, events) and **Evolution → Inhabitants** (non-USER lives, routines, relationships, aging, growth, setbacks, trajectories).
+* Renamed **Composition → World** to **Ontology → Constitution**.
+* Renamed **Canonical State → Continuity** to **State**, with **Open Details** as a sub-bullet.
+* Renamed **World State Ledger** to **State Ledger**.
+* Header format updated: emoji markers changed from 🕒→⌚ and 🌤️→🌡️; format string now uses bold field labels.
+* **Mechanics** reorganized into three groups:
+  * **Canonical State** — State, State Ledger
+  * **Causal Dynamics** — Causality + Consequence decomposed into **Causes / Effects / Propagation / Feedback / Proportionality** (five functions replacing two). Adds explicit feedback loops and a proportionality rule that was previously folded into Consequence.
+  * **Epistemics** — Information + **Knowledge** with four explicit holders (**Engine/System**, **Agents**, **USER**, **Human**) and an invariant against knowledge transfer without established access. This is the largest functional addition; the previous single `Information` clause had no holder separation.
+* **Agency** gained **Capability** alongside **Conduct** — "practical range of what they can accomplish" as distinct from what they attempt. Resolves a gap where the public version let agents attempt anything without a stated range.
+* **Evolution → Universe** now contains **Entities** as a sub-function; the earlier top-level `Inhabitants` function folded in here.
 
-#### Entities
+#### PRESENTATION
 
-* Moved **Volition** from **Agency** into **Mind**; **Agency** now contains only **Conduct**.
-* Expanded **Individuality** with personal history, accumulated life experiences, and identity continuity feeding into self-understanding.
-* Removed the standalone **Agents → Life → Life course** function; its content now lives in **Evolution → Inhabitants** (ongoing development) and **Individuality** (identity state).
+Fully rebuilt. The old `Expression & Style` flat list is now ten functional groups:
 
-#### Presentation
+* **Perspective** — POV, Camera / Microphone / Sensors access models, Knowledge, Convention, Rotation.
+* **Composition** — Selection, Sequence, Transitions.
+* **Scale & Pace** — Coverage, Pacing.
+* **Allocation** — Foreground / Midground / Background prominence levels and distribution. New section; the old prompt never explicitly said what to distribute attention across.
+* **Material & World Integration** — Sources, Environment, Population & Activity, **Crowds**, Encounters, Integration. The Crowds function is new — "Render crowds as active, socially aware participants rather than passive scenery."
+* **Depiction** — broken into sensory channels (General, Physical, Visual, Auditory, Tactile & Thermal, Olfactory & Gustatory, Kinesthetic & Interoceptive, Selectivity).
+* **Dialogue** — Voice, Interaction, Clarity as its own section (previously a sub-clause of Voice & diction).
+* **Craft** — Standard, Diction, Syntax & Rhythm, Imagery, Characterization, Atmosphere, Directness & Implication, Originality.
+* **Textual Conventions** — Narration, Dialogue & Vocals, Agent Thoughts, Sound Effects, Typography.
+* **Prohibitions & Anti-Patterns** — the biggest architectural change. Every scattered `Avoid:` clause from individual functions consolidated into one nine-category catalogue (Repetition & Padding, Clichés & Formulae, Omniscience & Unsupported Assertion, Exposition & Over-Explanation, Character & Dialogue Failures, Overwriting & Ornament, Physical & Sensory Incoherence, Structural & Temporal Failures, Narrative Contrivance).
 
-* Added **General Style**, defining overall writing style and quality standards (High-quality / Literary / Clean-prose / Graphical / Vivid / Rich / Sensory / Observable / Explicit / Dynamic / Uncensored).
-* Renamed **Explicitness & implication** to **Directness & implication**; reworded Apply from “Balance” to “Dynamically balance.”
-* Restructured **Depiction** into **General / Physical / Auditory** sub-functions with **Avoid** consolidated.
-* Removed expressive-symbol guidance from **Voice & diction**; symbols now live under **Textual Conventions → Typography**.
-* Consolidated **Text forms** into **Textual Conventions** (Narration, Dialogue & vocals, Agent thoughts, Onomatopoeia, Typography); removed the separate **Diegetic text** convention.
-* Added a compatibility clause to **Agent thoughts**: backticks remain primary “unless using a different established format,” so bot-card greetings that use bold or emoji for thoughts are not overwritten.
-* Trimmed **Scale & pace** Apply (“keeping elapsed world time distinct from textual length”) and Avoid (“advancing to future events solely because they are mentioned”); both are now model-specific concerns rather than universal rules.
+Removed **Output → Rendering** as a separate function. Format enforcement now implied by **Craft → Standard** and **Textual Conventions**.
 
-Preserved all Causality, Consequence, and Information mechanics; USER authorship boundaries; Agent Cognition, Emotion, Motivation, Conduct, Relationship, and Communication; and the remaining style guidance.
+Migrated the optional USER Profile and NPC Profile templates from TreeSpec to Markdown in the same pass, so the Engine prompt, USER Profile, and NPC Profile all now share one consistent format. Field counts, placeholders, and ordering preserved. Previous TreeSpec profiles continue to work unchanged — the Engine reads either format — but new profiles should use Markdown going forward.
 {% endupdate %}
 {% endupdates %}
